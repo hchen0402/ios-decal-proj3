@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Photos
-//
-//  Created by Gene Yoo on 11/3/15.
-//  Copyright © 2015 iOS DeCal. All rights reserved.
-//
+
 
 import UIKit
 
